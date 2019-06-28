@@ -1,0 +1,15 @@
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\bin\Debug\Base_Converter.exe.config
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\bin\Debug\Base_Converter.exe
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\bin\Debug\Base_Converter.pdb
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.csprojAssemblyReference.cache
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.MainForm.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.Properties.Resources.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.csproj.GenerateResource.cache
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.csproj.CoreCompileInputs.cache
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.exe
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.pdb
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.BaseForm.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.Base10ToBase2.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.Base10ToHex.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.Base2ToBase10.resources
+C:\Users\301-19\source\repos\Base_Converter\Base_Converter\obj\Debug\Base_Converter.HexToBase10.resources
